@@ -7,7 +7,7 @@
  */
 
 // 定义 Github 项目，文章会从这里读取
-const github_base = "Effervescences/cfworker";
+const github_base = "Dandelionss/CFworker-bolg";
 
 // 站点名称
 const site_name = "CloudFlare Workers Blog";
