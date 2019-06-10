@@ -21,7 +21,7 @@ const highlight_main = "https://cn.tql.ink:4443/js/highlight.min.js";
 const highlight_pack = "https://cn.tql.ink:4443/js/highlight.pack.js";
 
 // Copyright
-const copyright = `&copy; 2019 ${site_name} | <a href="https://github.com/kasuganosoras/cloudflare-worker-blog" target="_blank">Github</a>`;
+const copyright = `&copy; 2019 ${site_name} | <a href="https://github.com/Dandelionss/CFworker-bolg/" target="_blank">Github</a>`;
 
 /* 配置到此结束 */
 
