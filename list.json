@@ -23,6 +23,11 @@
         "title": "一键检测IP是否被墙并推送到微信",
         "time": "2019-6-13 18:45:22",
         "file": "posts/5.md"
-     }     
+     },
+    {
+        "title": "CloudFlare Workers绑定自定义域名项目",
+        "time": "2019-6-15 14:49:27",
+        "file": "posts/6.md"
+     }   
 ]
 
