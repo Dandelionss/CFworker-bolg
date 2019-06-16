@@ -33,6 +33,11 @@
         "title": "如何免费获得Office A1订阅账号，包含5T储存空间的Onedrive",
         "time": "2019-6-16 14:23:15",
         "file": "posts/7.md"
+     },
+    {
+        "title": "利用CloudFlare Workers搭建JSproxy",
+        "time": "2019-6-16 19:32:16",
+        "file": "posts/8.md"
      }   
 ]
 
