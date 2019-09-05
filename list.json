@@ -73,6 +73,11 @@
         "title": "用CloudFlare Workers部署Pixiv图片反代",
         "time": "2019-8-21 17:08:43",
         "file": "posts/15.md"
+     },
+    {
+        "title": "用CloudFlare Workers搭建Wiki镜像站",
+        "time": "2019-9-5 21:58:43",
+        "file": "posts/16.md"
      }  
 ]
 
