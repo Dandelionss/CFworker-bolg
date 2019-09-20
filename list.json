@@ -78,6 +78,11 @@
         "title": "用CloudFlare Workers搭建Wiki镜像站",
         "time": "2019-9-5 21:58:43",
         "file": "posts/16.md"
+     },
+    {
+        "title": "解决Oracle因SSH密钥缺失而无法连接",
+        "time": "2019-9-20 16:02:43",
+        "file": "posts/17.md"
      }  
 ]
 
